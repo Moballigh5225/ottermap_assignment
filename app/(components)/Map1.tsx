@@ -1,3 +1,4 @@
+"use client";
 import { useEffect, useRef } from "react";
 import "ol/ol.css";
 import * as ol from "ol";
