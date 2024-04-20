@@ -1,3 +1,4 @@
+"use client";
 // Import React hooks and components
 import { useEffect, useState } from "react";
 // @ts-ignore Suppress error for missing type declaration
